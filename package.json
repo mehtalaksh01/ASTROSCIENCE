@@ -1,28 +1,61 @@
 {
   
   "name": "backend",
+  
   "version": "1.0.0",
+  
   "description": "Node.js server for Astrology Consultation Form using Express, MySQL, and Nodemailer.",
+  
   "main": "app.js",
+  
   "scripts": {
-    "start": "node app.js"
+  
+    
+  "start": "node app.js"
+  
   },
+  
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mehtalaksh01/ASTROSCIENCE.git"
+  
+    
+  "type": "git",
+  
+    
+  "url": "git+https://github.com/mehtalaksh01/ASTROSCIENCE.git"
+  
   },
+  
   "keywords": [],
+  
   "author": "",
+  
   "license": "ISC",
+  
   "bugs": {
-    "url": "https://github.com/mehtalaksh01/ASTROSCIENCE/issues"
+  
+    
+  "url": "https://github.com/mehtalaksh01/ASTROSCIENCE/issues"
+  
   },
+  
   "homepage": "https://github.com/mehtalaksh01/ASTROSCIENCE#readme",
   
   "dependencies": {
-    "dotenv": "^17.2.1",
-    "express": "^5.1.0",
-    "mysql2": "^3.14.3",
-    "nodemailer": "^7.0.5"
+  
+    
+  "cors": "^2.8.5",
+  
+    
+  "dotenv": "^17.2.1",
+  
+    
+  "express": "^5.1.0",
+  
+    
+  "mysql2": "^3.14.3",
+  
+    
+  "nodemailer": "^7.0.5"
+  
   }
 }
