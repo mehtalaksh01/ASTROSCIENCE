@@ -1,0 +1,11 @@
+{
+  "typescript.validate.enable": false,
+  "javascript.validate.enable": true,
+  "js/ts.implicitProjectConfig.checkJs": false,
+  "typescript.suggestionActions.enabled": false,
+  "files.associations": {
+    "*.js": "javascript"
+  },
+  "typescript.preferences.includePackageJsonAutoImports": "off",
+  "typescript.disableAutomaticTypeAcquisition": true
+}
